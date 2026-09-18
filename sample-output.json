@@ -1,0 +1,32 @@
+{
+  "url": "https://www.autotrader.co.za/car-for-sale/gwm/steed-5/2.0/28174398",
+  "phone_number": "010 900 0000",
+  "dealer_id": "389",
+  "ad_id": 28174398,
+  "year": 2025,
+  "make": "GWM",
+  "model": "Steed 5",
+  "variant": "2.0VGT S",
+  "status": "Used",
+  "price_str": "R 294 900",
+  "price_zar": 294900,
+  "mileage_str": "12 000 km",
+  "mileage_km": 12000,
+  "transmission": "Manual",
+  "fuel_type": "Diesel",
+  "body_type": "Single cab",
+  "exterior_colour": "White",
+  "doors": 2,
+  "engine": "2.0 turbo diesel",
+  "engine_size": "2L",
+  "power_kw": 110,
+  "torque_nm": 320,
+  "dealer_name": "GWM Haval The Glen",
+  "seller_suburb": "Bassonia",
+  "dealer_rating_score": 3.8,
+  "dealer_rating_count": 32,
+  "image_urls": [
+    "https://img.autotrader.co.za/37182489/Crop800x600"
+  ],
+  "description": "Finance available through all major Banks. Trade in's welcome."
+}
